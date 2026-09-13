@@ -1,0 +1,33 @@
+{
+  "leituras": [
+    {
+      "id": "1",
+      "imagem": "https://m.media-amazon.com/images/I/91r5G8RxqfL.jpg",
+      "titulo": "É ASSIM QUE ACABA",
+      "autor": "Por COLLEN HOOVER",
+      "progresso": "28/368",
+    },
+    {
+      "id": "2",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ-HP9JHn_g8IEHVkckx4f8OZN6mbcuFruA6xMQ3PClxhfoN1QHgwH3Tkf&s=10",
+      "titulo": "A ODISSEIA",
+      "autor": "Por HOMERO",
+      "progresso": "200/576",
+    },
+    {
+      "id": "3",
+      "imagem": "https://m.media-amazon.com/images/I/61t0bwt1s3L._AC_UF1000,1000_QL80_.jpg",
+      "titulo": "1984",
+      "autor": "Por GEORGE ORWELL",
+      "progresso": "30/392",
+    },
+    
+    {
+      "id": "4",
+      "imagem": "https://static.skeelo.com/remote/320/480/100/https://skoob.s3.amazonaws.com/livros/390224/A_CULPA_E_DAS_ESTRELAS_1400085860B.jpg",
+      "titulo": "A CULPA É DAS ESTRELAS",
+      "autor": "Por JOHN GREEN",
+      "progresso": "128/286",
+    }
+  ],
+}
