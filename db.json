@@ -30,4 +30,33 @@
       "progresso": "128/286"
     }
   ]
+
+
+  "clubes": [
+  {
+    "urlImage": "https://i.pinimg.com/1200x/f6/82/c3/f682c3fc2ff0d50faeb1d76352af8b86.jpg",
+    "nomeClubes": "Garotas club"
+  },
+  {
+    "urlImage": "https://i.pinimg.com/736x/a2/dc/e4/a2dce40edf01ecb508f69f7f8c89bd92.jpg",
+    "nomeClubes": "Clube do livro"
+  },
+  {
+    "urlImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8NRji-mJg7oQzQrafWPwlAwl2B-90wCzPHDbj9A3nDc7U_A6w1mvsqCnw&s=10",
+    "nomeClubes": "Clubes patins"
+  },
+  {
+    "urlImage": "https://i.pinimg.com/736x/f3/89/01/f3890123565d2188f75c4a1a35bf3379.jpg",
+    "nomeClubes": "Clube das cartas"
+  },
+  {
+    "urlImage": "https://i.pinimg.com/1200x/7c/1f/b8/7c1fb8d1f5514d81c2ef182a735e3193.jpg",
+    "nomeClubes": "CLube do livro 2"
+  },
+  {
+    "urlImage": "https://i.pinimg.com/736x/30/cb/d0/30cbd02e0e795d455efe51b38c50b31c.jpg",
+    "nomeClubes": "Titanic clube"
+  }
+]
+  
 }
